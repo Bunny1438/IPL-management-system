@@ -1,0 +1,32 @@
+
+                                                                        MEMBERS
+==========================================================================================================================================================
+                                                                  **Rajasthan Royals**
+==========================================================================================================================================================
+
+No.	Name	          Nationality   Birth date	
+
+Batsmen
+
+1	Riyan Parag	  India	        10 November 2001 (age 17)	
+2	Aryaman Birla	  India	        9 July 1997 (age 21)	
+3	Prashant Chopra	  India	        7 October 1992 (age 26)	
+4	Steve Smith	  Australia     2 June 1989 (age 29)	
+5	Rahul Tripathi	  India	        2 March 1991 (age 28)	
+
+
+
+Wicket-keepers
+
+6	Sanju Samson	  India	        11 November 1994 (age 24)		
+7	Jos Buttler	  England       8 September 1990 (age 28)	
+
+Bowlers
+
+8	Oshane Thomas	  Jamaica	18 February 1997 (age 22)	
+9	Sudhesan Midhun   India	        7 October 1994 (age 24)	
+10	Ish Sodhi	  New Zealand	31 October 1992 (age 26)	
+11	Varun Aaron	  India	        29 October 1989 (age 29)
+12	Dhawal Kulkarni	  India	        10 December 1988 (age 30)		
+13	Jaydev Unadkat	  India	        18 October 1991 (age 27)
+==========================================================================================================================================================		

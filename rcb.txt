@@ -1,0 +1,27 @@
+									MEMBERS
+============================================================================================================================================================
+                                                              **Royal Challengers Bangalore**
+============================================================================================================================================================
+
+No.	Name	Nat	Date of Birth	
+
+Batsmen
+
+1	Akshdeep Nath	        India	          10 May 1993 (age 25)		
+2	AB de Villiers	        South Africa	  17 February 1984 (age 35)	
+3	Virat Kohli	        India	          5 November 1988 (age 30)	
+4	Shimron Hetmyer 	Guyana	          26 December 1996 (age 22)	
+	
+Wicket-keepers
+
+5	Heinrich Klaasen	South Africa	  30 July 1991 (age 27)			
+6	Parthiv Patel	        India	          9 March 1985 (age 34)	
+
+Bowlers
+
+7	Yuzvendra Chahal	India	          23 July 1990 (age 28)	
+8	Kulwant Khejroliya	India	          13 March 1992 (age 27)	
+9	Mohammed Siraj	        India	          13 March 1994 (age 25)	
+10	Umesh Yadav	        India	          25 October 1987 (age 31)	
+11	Prayas Ray Barman	India	          25 October 2002 (age 16)
+==========================================================================================================================================================	

@@ -1,0 +1,68 @@
+ 								  Tournament schedule ::
+=============================================================================================================================================================
+
+No. Of Matches      Teams	  Date	              Timing	Stadium (Venue) & Place
+
+1.	       (CSK) Vs (RCB)	23rd March 2019	      8:00 PM	M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+2.	       (KKR) Vs (SRH)	24th March 2019	      4:00 PM	Eden Gardens Stadium Kolkata, West Bengal.
+3.	       (MI)  Vs (DC)	24th March 2019	      8:00 PM	Wankhede Stadium, Mumbai, Maharashtra.
+4.	       (RR)  Vs (KXIP)	25th March 2019	      8:00 PM	Jaipur
+5.             (DC)  Vs (CSK)	26th March 2019	      8:00 PM	Feroz Shah Kotla Stadium, Delhi
+6.	       (KKR) Vs (KXIP)	27th March 2019	      8:00 PM	Eden Gardens Stadium, Kolkata
+7.	       (RCB) Vs (MI)	28th March 2019	      8:00 PM	M.Chinnaswamy Stadium, Bengaluru
+8.             (SRH) Vs (RR)	29th March 2019	      8:00 PM	RGI Stadium, Hyderabad
+9.	       (KXIP)Vs (MI)	30th March 2019	      4:00 PM	PCA Stadium, Mohali
+10.	       (DC)  Vs (KKR)	30th March 2019	      8:00 PM	Feroz Shah Kotla Stadium, Delhi
+11.	       (SRH) Vs (RCB)	31st March 2019	      4:00 PM	RGI Stadium, Hyderabad
+12.	       (CSK) Vs (RR)	31st March 2019	      8:00 PM	M.A.Chidambaram Stadium, Chennai
+13.	       (KXIP)vs (DC)	1st April 2019	      8:00 PM	Mohali
+14.	       (RR)  Vs (RCB)   2nd April 2019	      8:00 PM	Jaipur
+15.	       (MI)  Vs (CSK)	3rd April 2019	      8:00 PM	Mumbai
+16.	       (DC)  Vs (SRH)	4th April 2019	      8:00 PM	Feroz Shah Kotla Stadium, Delhi
+17.	       (RCB) Vs (KKR)   5th April 2019	      8:00 PM	Bangalore
+18.	       (KKR) vs (KXIP)	13th April 2019	      4:00 PM	Eden Gardens Kolkata, West Bengal.
+19.	       (RCB) Vs (DD)	13th April 2019	      8:00 PM	Sheikh Zayed Cricket Stadium, Abu Dhabi.
+20.	       (SRH) vs (CSK)	14th April 2019	      4:00 PM	R.G.I. Cricket Stadium, Hyderabad, Telangana.
+21.	       (RR)  vs (MI)	14th April 2019	      8:00 PM	Sawai Mansingh Stadium, Jaipur, Rajasthan
+22.	       (DC)  vs (KXIP)	15th April 2019	      8:00 PM	Feroz Shah Kotla Stadium Delhi
+23.	       (MI)  vs (SRH)	16th April 2019	      8:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+24.	       (RCB) vs (CSK)	17th April 2019	      8:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+25.	       (SRH) vs (KXIP)	18th April 2019	      8:00 PM	R.G.I. Cricket Stadium, Hyderabad, Telangana.
+26.	       (DC)  vs (KKR)	19th April 2019	      8:00 PM	Feroz Shah Kotla Stadium Delhi
+27.	       (CSK) Vs (MI)	20th April 2019       4:00 PM	 M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+28.	       (RR)  Vs (SRH)	20th April 2019       8:00 PM	Sawai Mansingh Stadium, Jaipur, Rajasthan
+29.	       (RCB) Vs (KKR)	21st April 2019	      4:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+30.	       (CSK) Vs (DC)	21st April 2019	      8:00 PM	M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+31.	       (RCB) Vs (MI)	22nd April 2019	      8:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+32.	       (DC)  Vs (RR)	23rd April 2019	      8:00 PM	Feroz Shah Kotla Stadium Delhi
+33.	       (KKR) Vs (CSK)	24th April 2019	      8:00 PM	Eden Gardens Kolkata, West Bengal.
+34.            (KXIP)Vs (MI)	25th April 2019	      8:00 PM	PCA Stadium Mohali, Punjab
+35.            (CSK) Vs (RCB)	26th April 2019	      8:00 PM	M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+36.            (SRH) Vs (DC)	27th April 2019	      4:00 PM	R.G.I. Cricket Stadium, Hyderabad, Telangana.
+37.	       (MI)  Vs (KKR)	27th April 2019	      8:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+38.	       (KXIP)Vs (RR)	28th April 2019	      4:00 PM	PCA Stadium Mohali, Punjab
+39.            (SRH) Vs (RCB)	28th April 2019	      8:00 PM	R.G.I. Cricket Stadium, Hyderabad, Telangana.
+40.	       (RR)  Vs (KXIP)	29th April 2019	      8:00 PM	Sawai Mansingh Stadium, Jaipur, Rajasthan
+41.	       (KKR) Vs (MI)	30th April 2019	      8:00 PM	Eden Gardens Kolkata, West Bengal.
+42.	       (DC)  Vs (SRH)	1st May 2019	      8:00 PM	Feroz Shah Kotla Stadium Delhi
+43.	       (RR)  Vs (CSK)	2nd May 2019	      8:00 PM	Sawai Mansingh Stadium, Jaipur, Rajasthan
+44.	       (KXIP)Vs (KKR)	3rd May 2019	      8:00 PM	PCA Stadium Mohali, Punjab
+45.	       (DC)  Vs (RR)	4th May 2019	      4:00 PM	Sheikh Zayed Cricket Stadium, Abu Dhabi.
+46.	       (KXIP)Vs (RCB)	4th May 2019	      8:00 PM	PCA Stadium Mohali, Punjab
+47.	       (MI)  Vs (RR)	5th May 2019	      4:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+48.	       (KKR) Vs (SRH)	5th May 2019	      8:00 PM	Eden Gardens Kolkata, West Bengal.
+49.	       (CSK) Vs (MI)	6th May 2019	      8:00 PM	 M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+50.	       (KKR) Vs (RR)	7th May 2019          8:00 PM	Eden Gardens Kolkata, West Bengal.
+51.	       (MI)  Vs (KXIP)	8th May 2019          8:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+52.	       (RCB) Vs (RR)	9th May 2019          8:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+53.	       (DC)  Vs (CSK)	1st May 2019          8:00 PM	Feroz Shah Kotla Stadium Delhi
+54.	       (RCB) Vs (SRH)	2nd May 2019          4:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+55.	       (MI)  Vs (KKR)	2nd May 2019          8:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+56.	       (RR)  Vs (RCB)	3rd May 2019          4:00 PM	Sawai Mansingh Stadium, Jaipur, Rajasthan
+57.	       (DC)  Vs (CSK)	3rd May 2019          8:00 PM	Feroz Shah Kotla Stadium Delhi
+58.            (MI)  Vs (KXIP)	4th May 2019          8:00 PM	Wankhede Stadium Mumbai, Maharashtra.
+59.	       Qualifier-1	6th May 2019          8:00 PM	Eden Gardens Kolkata, West Bengal.
+60.	       Eliminator	8th May 2019          8:00 PM	M.Chinnaswamy Stadium, Bengaluru, Karnataka.
+61.	       Qualifier-2	10th May 2019         8:00 PM	M.A.Chidambaram Chepauk Stadium, Chennai, Tamilnadu.
+62.	       FINAL	        12th May 2019         8:00 PM	Wankhede Stadium Mumbai, Maharashtra
+============================================================================================================================================================

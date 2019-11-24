@@ -1,0 +1,30 @@
+                                                        MEMBERS
+=====================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------
+                                      **Chennai Super Kings**
+-------------------------------------------------------------------------------------------------------------------------------------
+
+No.	Name	          Nationality             Birth date		
+
+Batsmen
+1	Murali Vijay	    India	          1 April 1984 (age 35)	
+2	Suresh Raina	    India	          27 November 1986 (age 32)		
+3	Ambati Rayudu	    India	          23 September 1985 (age 33)	
+4      Faf du Plessis	    South Africa	  13 July 1984 (age 34)	
+5	Dhruv Shorey	    India	          5 June 1992 (age 26)		
+
+Wicket-keepers
+6	MS Dhoni	    India	          7 July 1981 (age 37)	
+7	Sam Billings	    England	          15 June 1991 (age 27)	
+
+Bowlers
+8	Mohit Sharma	    India	          18 September 1988 (age 30)		
+9	Lungi Ngidi	    South Africa	  29 March 1996 (age 23)	
+10	Monu Kumar	    India	          5 November 1994 (age 24)		
+11	KM Asif	            India 	          24 July 1993 (age 25)			
+12	Harbhajan Singh	    India	          3 July 1980 (age 38)		
+13	Scott Kuggeleijn    New Zealand	          3 January 1992 (age 27)	
+14	Shardul Thakur	    India	          16 October 1991 (age 27)	
+15	Deepak Chahar	    India	          7 August 1992 (age 26)
+==================================================================================================================================	
+
